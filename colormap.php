@@ -19,7 +19,7 @@ class ColorMap {
 	 */
 	public function __construct()
 	{
-		$this->load_color_map();
+		$this->load_colormap();
 	}
 		
 	/**
