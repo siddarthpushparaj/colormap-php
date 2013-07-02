@@ -1,11 +1,8 @@
 Colormap (PHP)
 ========================================
 
-Author: Kenn Wilson
-
-Author URL: [http://www.corvidworks.com/](http://www.corvidworks.com/)
-
-Project URL: [http://www.corvidworks.com/projects/colormap/](http://www.corvidworks.com/projects/colormap/)
+Author: Kenn Wilson  
+Author URL: [http://www.kennwilson.com/](http://www.kennwilson.com/)  
 
 
 Description
@@ -20,7 +17,7 @@ Colormap provides helper methods to convert colors between different formats use
 
 Three character hex codes are normalized to six characters and all input is normalized to lowercase. Colors can be converted from any one of these formats to any other.
 
-This library was extracted from [Hextractor](http://www.hextractor.com/).
+This library was extracted from [Hextractor](http://hex.corvidworks.com/).
 
 
 Usage
@@ -38,18 +35,10 @@ Call various methods, as needed:
 	$name = $map->hex_to_name('#ffffff');          // Returns 'white'
 
 
-Documentation
--------------------
-
-Additional information can be found at:
-
-[http://www.corvidworks.com/projects/colormap/](http://www.corvidworks.com/projects/colormap/)
-
-
 License
 -------------------
 
-This code is released under the terms of the [MIT License](http://www.opensource.org/licenses/mit-license.php) and is free to use and redistribute for any purpose. If you find this code helpful, a link back to [my site](http://www.corvidworks.com/) would be cool, but it’s not required.
+This code is released under the terms of the [MIT License](http://www.opensource.org/licenses/mit-license.php) and is free to use and redistribute for any purpose. If you find this code helpful, a link back to [my site](http://www.kennwilson.com/) would be cool, but it’s not required.
 
 
 
