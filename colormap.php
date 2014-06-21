@@ -330,6 +330,7 @@ class ColorMap {
 			'PowderBlue'           => '#b0e0e6',
 			'Purple'               => '#800080',
 			'Red'                  => '#ff0000',
+			'RebeccaPurple'        => '#663399',
 			'RosyBrown'            => '#bc8f8f',
 			'RoyalBlue'            => '#4169e1',
 			'SaddleBrown'          => '#8b4513',
